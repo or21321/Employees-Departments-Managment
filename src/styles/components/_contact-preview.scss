@@ -1,0 +1,27 @@
+.contact-preview {
+    display: flex;
+    background-color: $clr7;
+    padding: 10px;
+    border-radius: 3px;
+    color: $clr6;
+    justify-content: space-between;
+    align-items: center;
+    font-size: rem(18px);
+
+    &:hover {
+        cursor: pointer;
+    }
+    .menu-popup {
+        background-color: $clr6;
+        padding: 5px;
+        // button {
+        //     background-color: #d2af26;
+        // }
+    }
+    .menu-popup:hover {
+        cursor: pointer;
+        button:hover {
+            cursor: pointer;
+        }
+    }
+}
