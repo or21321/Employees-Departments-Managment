@@ -1,5 +1,5 @@
 **Deployed**
-https://or21321.github.io/Employees-Departments-Managment/#/login
+https://or21321.github.io/Employees-Departments-Managment/
 
 # Vue 3 + TypeScript + Vite
 
